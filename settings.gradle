@@ -1,0 +1,6 @@
+rootProject.name = 'spring-data-simple'
+
+include 'bl'
+
+include 'web'
+
