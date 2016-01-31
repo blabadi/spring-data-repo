@@ -17,4 +17,5 @@ public class CarBo {
     public Iterable<Car> getAll(){
         return carRepo.findAll();
     }
+
 }

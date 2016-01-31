@@ -8,7 +8,7 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 
 @Configuration
 @EnableWebMvc
-@Import(Config.class)
+//@Import(Config.class)
 @ComponentScan(basePackages = {"web"})
 public class WebConfig {
 }
